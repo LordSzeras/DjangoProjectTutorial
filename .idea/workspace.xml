@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65e2d953-f221-46e1-b92d-6f5cf6778e4c" name="Changes" comment="Tutorial Part 2 Successful">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="65e2d953-f221-46e1-b92d-6f5cf6778e4c" name="Changes" comment="Tutorial Part 2 Successful" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="LordSzeras &lt;nicholas.huffines@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -106,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746132591651</updated>
-      <workItem from="1746132592697" duration="7102000" />
+      <workItem from="1746132592697" duration="7417000" />
     </task>
     <task id="LOCAL-00001" summary="Tutorial Part 1 Successful">
       <option name="closed" value="true" />
@@ -132,7 +135,31 @@
       <option name="project" value="LOCAL" />
       <updated>1746141611951</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tutorial Part 2 Successful">
+      <option name="closed" value="true" />
+      <created>1746141700167</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746141700167</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tutorial Part 2 Successful">
+      <option name="closed" value="true" />
+      <created>1746141722808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746141722808</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Tutorial Part 2 Successful">
+      <option name="closed" value="true" />
+      <created>1746141782985</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746141782985</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
