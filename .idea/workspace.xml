@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65e2d953-f221-46e1-b92d-6f5cf6778e4c" name="Changes" comment="Tutorial Part 2 Successful" />
+    <list default="true" id="65e2d953-f221-46e1-b92d-6f5cf6778e4c" name="Changes" comment="Tutorial Part 2 Successful">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,22 +29,23 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "LordSzeras"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LordSzeras&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LordSzeras/DjangoProjectTutorial.git",
-    "accountId": "c059a234-13bc-4e13-bf28-49ee89efdedf"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LordSzeras/DjangoProjectTutorial.git&quot;,
+    &quot;accountId&quot;: &quot;c059a234-13bc-4e13-bf28-49ee89efdedf&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2wVhLR4Q5zdDGNH1HI04pvRtYAT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,8 +59,9 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -110,6 +114,8 @@
       <option name="presentableId" value="Default" />
       <updated>1746132591651</updated>
       <workItem from="1746132592697" duration="8627000" />
+      <workItem from="1746222910186" duration="2115000" />
+      <workItem from="1746369151554" duration="847000" />
     </task>
     <task id="LOCAL-00001" summary="Tutorial Part 1 Successful">
       <option name="closed" value="true" />
@@ -191,11 +197,46 @@
       <option name="project" value="LOCAL" />
       <updated>1746143159127</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Tutorial Part 2 Successful">
+      <option name="closed" value="true" />
+      <created>1746222948656</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746222948656</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Tutorial Part 2 Successful">
+      <option name="closed" value="true" />
+      <created>1746223221600</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746223221600</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Tutorial Part 2 Successful">
+      <option name="closed" value="true" />
+      <created>1746223246818</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746223246818</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tutorial Part 1 Successful" />
